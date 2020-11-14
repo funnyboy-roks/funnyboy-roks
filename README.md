@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">funnyboy_roks</h1>
 
-<!--
-**funnyboy-roks/funnyboy-roks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm funnyboy_roks and I enjoy to program in my free time. 
+I like to make discord bots, Minecraft mods & plugins, and front-end javascript apps.
 
-Here are some ideas to get you started:
+## Languages
+The languages that I spend most of my time working with are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Python
+- Java
+
+<a align="center" href="https://github.com/funnyboy-roks/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&hide=GLSL&layout=compact&theme=radical" alt="GitHub Stats"></a>
+
+I've started learning Java recently so that I can develop Minecraft mods and plugins. 
+
+## Check out my website, [funnyboyroks.com](https://www.funnyboyroks.com, "funnyboyroks.com")!
