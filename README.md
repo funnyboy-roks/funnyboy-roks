@@ -10,8 +10,9 @@ The languages that I spend most of my time working with are:
 - Python
 - Java
 
-<a align="center" href="https://github.com/funnyboy-roks/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&hide=GLSL&layout=compact&theme=radical" alt="GitHub Stats"></a>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&hide=GLSL&layout=compact&theme=radical)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
+[![](https://github-readme-stats.vercel.app/api?username=funnyboy-roks&show_icons=true&theme=radical)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
 
 I've started learning Java recently so that I can develop Minecraft mods and plugins. 
 
-## Check out my website, [funnyboyroks.com](https://www.funnyboyroks.com "funnyboyroks.com")!
+## Check out my website, [funnyboyroks.com](https://funnyboyroks.com "funnyboyroks.com")!
