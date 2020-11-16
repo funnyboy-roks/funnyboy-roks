@@ -14,4 +14,4 @@ The languages that I spend most of my time working with are:
 
 I've started learning Java recently so that I can develop Minecraft mods and plugins. 
 
-## Check out my website, [funnyboyroks.com](https://www.funnyboyroks.com, "funnyboyroks.com")!
+## Check out my website, [funnyboyroks.com](https://www.funnyboyroks.com "funnyboyroks.com")!
