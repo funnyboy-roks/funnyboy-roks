@@ -1,18 +1,32 @@
 <h1 align="center">funnyboy_roks</h1>
 
-Hello! I'm funnyboy_roks and I enjoy to program in my free time. 
-I like to make discord bots, Minecraft mods & plugins, and front-end javascript apps.
+Hello! I'm funnyboy_roks, but most people call me Funny!  I've been programming for about 4 years.  I've made lots of front-end JavaScript web-apps and many Discord bots.
 
 ## Languages
-The languages that I spend most of my time working with are:
+
+I am comfortable with the following langauges, in order of usage amount:
 
 - JavaScript
-- Python
 - Java
+- Python
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&hide=GLSL&layout=compact&theme=radical)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
-[![](https://github-readme-stats.vercel.app/api?username=funnyboy-roks&show_icons=true&theme=radical)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
+<!-- Not shown, because Discord server isn't setup yet.
+## Support
 
-I've started learning Java recently so that I can develop Minecraft mods and plugins. 
+If you need support with a Minecraft plugin or other service, please join my Discord server: [![Discord Link](https://img.shields.io/discord/783771196704423996?color=7289da&label=DISCORD&style=for-the-badge)](https://discord.gg/qsUP2t5VpW)  
+There, you can post in the correct public channel, open a ticket or send me a private message.
+-->
 
 ## Check out my website, [funnyboyroks.com](https://funnyboyroks.com "funnyboyroks.com")!
+
+<div align="center">
+
+<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
+<img height="100%" width="45%" alt="Repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&hide=GLSL&layout=compact&theme=radical">
+</a>
+
+<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
+    <img height="100%" width="45%" alt="Repositories" src="https://github-readme-stats.vercel.app/api?username=funnyboy-roks&show_icons=true&theme=radical">
+</a>
+
+</div>
