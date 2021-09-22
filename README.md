@@ -22,7 +22,7 @@ There, you can post in the correct public channel, open a ticket or send me a pr
 <div align="center">
 
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img height="180px" width="auto" alt="Repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&hide=GLSL&layout=compact&theme=radical">
+    <img height="180px" width="auto" alt="Repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&hide=GLSL&layout=compact&theme=radical">
 </a>
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
     <img height="180px" width="auto" alt="Repositories" src="https://github-readme-stats.vercel.app/api?username=funnyboy-roks&show_icons=true&theme=radical">
