@@ -4,9 +4,10 @@ Hello! I'm funnyboy_roks, but most people call me Funny!  I've been programming 
 
 ## Languages
 
-I am comfortable with the following langauges, in order of usage amount:
+I am comfortable with the following langauges:
 
 - JavaScript
+- TypeScript
 - Java
 - Python
 
