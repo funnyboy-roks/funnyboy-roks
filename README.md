@@ -18,15 +18,15 @@ If you need support with a Minecraft plugin or other service, please join my Dis
 There, you can post in the correct public channel, open a ticket or send me a private message.
 -->
 
-## Check out my website, [funnyboyroks.com](https://funnyboyroks.com "funnyboyroks.com") (WIP)!
+## Check out my website, [funnyboyroks.com](https://funnyboyroks.com "funnyboyroks.com")!
 
 <div align="center">
 
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img height="180px" width="auto" alt="Repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&hide=GLSL&layout=compact&theme=radical">
+    <img height="170px" width="auto" alt="Repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&hide=GLSL&layout=compact&theme=radical">
 </a>
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img height="180px" width="auto" alt="Repositories" src="https://github-readme-stats.vercel.app/api?username=funnyboy-roks&show_icons=true&theme=radical">
+    <img height="170px" width="auto" alt="Repositories" src="https://github-readme-stats.vercel.app/api?username=funnyboy-roks&show_icons=true&theme=radical">
 </a>
 
 </div>
