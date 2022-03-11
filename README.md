@@ -40,7 +40,7 @@ You can send me an email at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail
 
 All of my public personal projects can be found on my website or my [repositories](https://github.com/funnyboy-roks?tab=repositories).
 
-I work on the [FarLandsMC](https://github.com/FarLandsMC) Minecraft server as a developer, maintaining its plugins (some listed below).
+I work on the [FarLands](https://github.com/FarLandsMC) Minecraft server as a developer, maintaining its plugins (some listed below).
 
 My main projects are shown below
 
