@@ -9,6 +9,8 @@ I create many web applications, Minecraft server plugins, Discord bots, etc.
 
 Feel free to checkout my website at [funnyboyroks.com](https://funnyboyroks.com).
 
+Check me out on [Modrinth](https://modrinth.com/user/funnyboy-roks).
+
 ## Languages
 
 I like experiment with many languages, though I often choose JavaScript or TypeScript for personal use, and mostly Java for school assignments and projects.  
