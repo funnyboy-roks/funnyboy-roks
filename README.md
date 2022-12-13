@@ -11,6 +11,8 @@ Feel free to checkout my website at [funnyboyroks.com](https://funnyboyroks.com)
 
 Check me out on [Modrinth](https://modrinth.com/user/funnyboy-roks).
 
+If you need support with any of my software or you'd like to suggest something, you are welcome to join my Discord server: <https://discord.gg/qsUP2t5VpW>
+
 ## Languages
 
 I like experiment with many languages, though I often choose JavaScript or TypeScript for personal use, and mostly Java for school assignments and projects.  
