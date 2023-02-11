@@ -4,26 +4,27 @@
 
 Hello, I'm funnyboy_roks, or Funny! I have been programming for about four years, building various applications and tools.
 
-I create many web applications, Minecraft server plugins, Discord bots, etc.  
-*If you'd like to request a tool or application, please contact me ([Contact Info](#contact))*
+I tend to build applications that I find useful, which usually includes
+web apps, Discord bots, Minecraft plugins, and command-line tools.  Some
+of my featured projects can be seen below.  
+*If you'd like to request a tool or application, you are more than welcome to contact me ([Contact Info](#contact))*
 
-Feel free to checkout my website at [funnyboyroks.com](https://funnyboyroks.com).
-
-Check me out on [Modrinth](https://modrinth.com/user/funnyboy-roks).
-
-If you need support with any of my software or you'd like to suggest something, you are welcome to join my Discord server: <https://discord.gg/qsUP2t5VpW>
+Check out my [website](https://funnyboyroks.com)!  
+Check me out on [Modrinth](https://modrinth.com/user/funnyboy-roks)!
+Check out my [Maven repository](https://maven.funnyboyroks.com)!
 
 ## Languages
 
-I like experiment with many languages, though I often choose JavaScript or TypeScript for personal use, and mostly Java for school assignments and projects.  
+I like experiment with many programming languages, including but not limited to JavaScript, TypeScript, Java, and Python(Though I tend to shy away from it, as I do not like it).  
 I am quite familiar with HTML and CSS, though they're not programming languages.
 
-I know Python well enough for general use, though I tend to shy away from it, because it's *disgusting* ;)
+I am currently learning Rust as it seems like an interesting language.
 
 ## Contact
 
-The best way to contact me is through Discord: `@funnyboy_roks#0001`  
-You can send me an email at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com)
+If you need assistance or have a suggestion, please join my Discord server: <https://discord.gg/qsUP2t5VpW>.
+
+Alternatively, you can send me an email at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com) though I don't check it too often.
 
 ## Stats
 
@@ -46,7 +47,9 @@ All of my public personal projects can be found on my website or my [repositorie
 
 I work on the [FarLands](https://github.com/FarLandsMC) Minecraft server as a developer, maintaining its plugins (some listed below).
 
-My main projects are shown below
+<!--
+Todo: Update this with more recent information
+Some of my projects can be seen below:
 
 <div align="center">
 
@@ -54,4 +57,4 @@ My main projects are shown below
 [![PaperMC CLI](https://github-readme-stats.vercel.app/api/pin/?username=funnyboy-roks&repo=PaperMC-CLI&show_owner=true&theme=dracula)](https://github.com/funnyboy-roks/PaperMC-CLI)
 
 </div>
-
+-->
