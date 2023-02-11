@@ -41,14 +41,14 @@ Alternatively, you can send me an email at [`funnyboyroks@gmail.com`](mailto:fun
 
 </div>
 
+<!--
+Todo: Update this with more recent information
 ## Projects
 
 All of my public personal projects can be found on my website or my [repositories](https://github.com/funnyboy-roks?tab=repositories).
 
 I work on the [FarLands](https://github.com/FarLandsMC) Minecraft server as a developer, maintaining its plugins (some listed below).
 
-<!--
-Todo: Update this with more recent information
 Some of my projects can be seen below:
 
 <div align="center">
