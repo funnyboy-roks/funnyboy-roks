@@ -36,7 +36,7 @@ Alternatively, you can send me an email at [`funnyboyroks@gmail.com`](mailto:fun
 </a>
 
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img height="170px" width="auto" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula">
+    <img height="170px" width="auto" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6">
 </a>
 
 </div>
