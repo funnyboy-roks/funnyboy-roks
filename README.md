@@ -15,10 +15,9 @@ Check out my [Maven repository](https://maven.funnyboyroks.com)!
 
 ## Languages
 
-I like experiment with many programming languages, including but not limited to JavaScript, TypeScript, Java, and Python(Though I tend to shy away from it, as I do not like it).  
+I frequently use a variety of programming languages, including JavaScript, TypeScript, Java, and Python (Though Python's disgusting)  
+Rust is very quickly becoming my favourite language.  
 I am quite familiar with HTML and CSS, though they're not programming languages.
-
-I am currently learning Rust as it seems like an interesting language.
 
 ## Contact
 
