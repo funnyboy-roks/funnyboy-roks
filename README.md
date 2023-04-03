@@ -10,7 +10,7 @@ of my featured projects can be seen below.
 *If you'd like to request a tool or application, you are more than welcome to contact me ([Contact Info](#contact))*
 
 Check out my [website](https://funnyboyroks.com)!  
-Check me out on [Modrinth](https://modrinth.com/user/funnyboy-roks)!
+Check me out on [Modrinth](https://modrinth.com/user/funnyboy-roks)!  
 Check out my [Maven repository](https://maven.funnyboyroks.com)!
 
 ## Languages
