@@ -17,7 +17,7 @@ Check out my [Maven repository](https://maven.funnyboyroks.com)!
 
 I use many programming languages, though I've been using a lot of Rust
 lately and enjoying it greatly.  
-Some of the other languages that I use, include:
+Some of the other languages that I use include:
 
 - [JavaScript](https://github.com/funnyboy-roks?tab=repositories&language=javascript)
 - [TypeScript](https://github.com/funnyboy-roks?tab=repositories&language=typescript)
