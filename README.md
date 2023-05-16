@@ -15,15 +15,39 @@ Check out my [Maven repository](https://maven.funnyboyroks.com)!
 
 ## Languages
 
-I frequently use a variety of programming languages, including JavaScript, TypeScript, Java, and Python (Though Python's disgusting)  
-Rust is very quickly becoming my favourite language.  
-I am quite familiar with HTML and CSS, though they're not programming languages.
+I use many programming languages, though I've been using a lot of Rust
+lately and enjoying it greatly.  
+Some of the other languages that I use, include:
+
+- [JavaScript](https://github.com/funnyboy-roks?tab=repositories&language=javascript)
+- [TypeScript](https://github.com/funnyboy-roks?tab=repositories&language=typescript)
+- [Java](https://github.com/funnyboy-roks?tab=repositories&language=java)
+- [Python](https://github.com/funnyboy-roks?tab=repositories&language=python) (though I don't really like it)
 
 ## Contact
 
 If you need assistance or have a suggestion, please join my Discord server: <https://discord.gg/qsUP2t5VpW>.
 
 Alternatively, you can send me an email at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com) though I don't check it too often.
+
+## My Setup
+
+I currently run [Arch Linux](https://archlinux.org) with [i3](https://i3wm.org/) on my computers.
+- I use [lemurs](https://github.com/coastalwhite/lemurs) as my DM
+- I use [polybar](https://github.com/polybar/polybar/wiki/) as my bar.
+- I use [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) as my web browser.
+
+For programming, I use [NeoVim](https://neovim.io/) for most languages,
+though I use IntelliJ for Java development, because there's still no
+great way to do that in Vim.
+
+I use two terminal emulators;
+[Alacritty](https://github.com/alacritty/alacritty) and
+[Guake](https://github.com/Guake/guake) both running
+[fish](https://fishshell.com/) with the
+[pure](https://github.com/pure-fish/pure) prompt.
+
+### Many of my important configuration files can be found in my [personal-config](https://github.com/funnyboy-roks/personal-config/) repo.
 
 ## Stats
 
