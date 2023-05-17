@@ -28,7 +28,7 @@ Some of the other languages that I use include:
 
 If you need assistance or have a suggestion, please join my Discord server: <https://discord.gg/qsUP2t5VpW>.
 
-Alternatively, you can send me an email at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com) though I don't check it too often.
+For all other senders, you can send an email to [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com).
 
 ## My Setup
 
