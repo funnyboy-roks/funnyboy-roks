@@ -44,8 +44,9 @@ great way to do that in Vim.
 I use two terminal emulators;
 [Alacritty](https://github.com/alacritty/alacritty) and
 [Guake](https://github.com/Guake/guake) both running
-[fish](https://fishshell.com/) with the
-[pure](https://github.com/pure-fish/pure) prompt.
+[zsh](https://www.zsh.org/) with
+[powerlevel10k](https://github.com/romkatv/powerlevel10k)'s version of
+the [pure](https://github.com/romkatv/powerlevel10k#pure-compatibility) prompt
 
 ### Many of my important configuration files can be found in my [personal-config](https://github.com/funnyboy-roks/personal-config/) repo.
 
