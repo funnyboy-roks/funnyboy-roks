@@ -9,20 +9,24 @@ web apps, Discord bots, Minecraft plugins, and command-line tools.  Some
 of my featured projects can be seen below.  
 *If you'd like to request a tool or application, you are more than welcome to contact me ([Contact Info](#contact))*
 
-Check out my [website](https://funnyboyroks.com)!  
-Check me out on [Modrinth](https://modrinth.com/user/funnyboy-roks)!  
+My Website contains a lot of information that could be useful, as well
+as a mini portfolio with many of my projects: <https://funnyboyroks.com>
+
+You can additionally checkout my Modrinth page to see the plugins and
+resource packs that I've made: <https://modrinth.com/user/funnyboy-roks>
+
 Check out my [Maven repository](https://maven.funnyboyroks.com)!
 
 ## Languages
 
-I use many programming languages, though I've been using a lot of [Rust](https://github.com/funnyboy-roks?tab=repositories&language=rust)
-lately and enjoying it greatly.  
-Some of the other languages that I use include:
+I've experimented with many programming languages, though I mostly stick
+to a few that can be seen below. (Ordered by preference)
 
+- [Rust](https://github.com/funnyboy-roks?tab=repositories&language=rust)
 - [JavaScript](https://github.com/funnyboy-roks?tab=repositories&language=javascript)
 - [TypeScript](https://github.com/funnyboy-roks?tab=repositories&language=typescript)
 - [Java](https://github.com/funnyboy-roks?tab=repositories&language=java)
-- [Python](https://github.com/funnyboy-roks?tab=repositories&language=python) (though I don't really like it)
+- [Python](https://github.com/funnyboy-roks?tab=repositories&language=python) (I don't like it at all)
 
 ## Contact
 
@@ -39,7 +43,8 @@ I currently run [Arch Linux](https://archlinux.org) with [i3](https://i3wm.org/)
 
 For programming, I use [NeoVim](https://neovim.io/) for most languages,
 though I use IntelliJ for Java development, because there's still no
-great way to do that in Vim.
+great way to do that in [Neo]Vi[m] (if you have ideas, please [let me
+know!](#contact)).
 
 I use two terminal emulators;
 [Alacritty](https://github.com/alacritty/alacritty) and
@@ -48,7 +53,7 @@ I use two terminal emulators;
 [powerlevel10k](https://github.com/romkatv/powerlevel10k)'s version of
 the [pure](https://github.com/romkatv/powerlevel10k#pure-compatibility) prompt
 
-### Many of my important configuration files can be found in my [personal-config](https://github.com/funnyboy-roks/personal-config/) repo.
+### My config files can be found in my [personal-config](https://github.com/funnyboy-roks/personal-config/) repo.
 
 ## Stats
 
@@ -64,21 +69,3 @@ the [pure](https://github.com/romkatv/powerlevel10k#pure-compatibility) prompt
 </a>
 
 </div>
-
-<!--
-Todo: Update this with more recent information
-## Projects
-
-All of my public personal projects can be found on my website or my [repositories](https://github.com/funnyboy-roks?tab=repositories).
-
-I work on the [FarLands](https://github.com/FarLandsMC) Minecraft server as a developer, maintaining its plugins (some listed below).
-
-Some of my projects can be seen below:
-
-<div align="center">
-
-[![FarLands](https://github-readme-stats.vercel.app/api/pin/?username=FarLandsMC&repo=FarLands&show_owner=true&theme=dracula)](https://github.com/FarLandsMC/FarLands)
-[![PaperMC CLI](https://github-readme-stats.vercel.app/api/pin/?username=funnyboy-roks&repo=PaperMC-CLI&show_owner=true&theme=dracula)](https://github.com/funnyboy-roks/PaperMC-CLI)
-
-</div>
--->
