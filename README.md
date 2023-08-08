@@ -5,8 +5,8 @@
 Hello, I'm funnyboy_roks, or Funny! I have been programming for about four years, building various applications and tools.
 
 I tend to build applications that I find useful, which usually includes
-web apps, Discord bots, Minecraft plugins, and command-line tools.  Some
-of my featured projects can be seen below.  
+web apps, CLI tools, Minecraft plugins, and much more.  Some
+of my featured projects can be seen below and on [my website](https://funnyboyroks.com).  
 *If you'd like to request a tool or application, you are more than welcome to contact me ([Contact Info](#contact))*
 
 My Website contains a lot of information that could be useful, as well
@@ -15,12 +15,14 @@ as a mini portfolio with many of my projects: <https://funnyboyroks.com>
 You can additionally checkout my Modrinth page to see the plugins and
 resource packs that I've made: <https://modrinth.com/user/funnyboy-roks>
 
-Check out my [Maven repository](https://maven.funnyboyroks.com)!
+My Maven repository contains a few projects that may be of use:
+<https://maven.funnyboyroks.com>
 
 ## Languages
 
 I've experimented with many programming languages, though I mostly stick
-to a few that can be seen below. (Ordered by preference)
+to a few that can be seen below. (Links to my repos with those
+languages)
 
 | Language                         | Rank (by favouritism) | Rank (by experience) |
 | -------------------------------- | --------------------- | -------------------- |
@@ -37,7 +39,7 @@ to a few that can be seen below. (Ordered by preference)
 
 ## Contact
 
-If you need assistance or have a suggestion, please join my Discord server: <https://discord.gg/qsUP2t5VpW>.
+If you need assistance or have a suggestion, please join my Discord server: <https://funnyboyroks.com/discord>.
 
 For all other senders, you can send an email to [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com).
 
