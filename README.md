@@ -22,11 +22,18 @@ Check out my [Maven repository](https://maven.funnyboyroks.com)!
 I've experimented with many programming languages, though I mostly stick
 to a few that can be seen below. (Ordered by preference)
 
-- [Rust](https://github.com/funnyboy-roks?tab=repositories&language=rust)
-- [JavaScript](https://github.com/funnyboy-roks?tab=repositories&language=javascript)
-- [TypeScript](https://github.com/funnyboy-roks?tab=repositories&language=typescript)
-- [Java](https://github.com/funnyboy-roks?tab=repositories&language=java)
-- [Python](https://github.com/funnyboy-roks?tab=repositories&language=python) (I don't like it at all)
+| Language                         | Rank (by favouritism) | Rank (by experience) |
+| -------------------------------- | --------------------- | -------------------- |
+| [Rust]                           | 1                     | 3                    |
+| [JavaScript]/[Typescript]        | 2                     | 1                    |
+| [Java]                           | 3                     | 2                    |
+| [Python] <sub>(disgusting)</sub> | 4                     | 4                    |
+
+[Rust]:       https://github.com/funnyboy-roks?tab=repositories&language=rust
+[JavaScript]: https://github.com/funnyboy-roks?tab=repositories&language=javascript
+[TypeScript]: https://github.com/funnyboy-roks?tab=repositories&language=typescript
+[Java]:       https://github.com/funnyboy-roks?tab=repositories&language=java
+[Python]:     https://github.com/funnyboy-roks?tab=repositories&language=python
 
 ## Contact
 
@@ -44,7 +51,7 @@ I currently run [Arch Linux](https://archlinux.org) with [i3](https://i3wm.org/)
 For programming, I use [NeoVim](https://neovim.io/) for most languages,
 though I use IntelliJ for Java development, because there's still no
 great way to do that in [Neo]Vi[m] (if you have ideas, please [let me
-know!](#contact)).
+know](#contact)!).
 
 I use two terminal emulators;
 [Alacritty](https://github.com/alacritty/alacritty) and
