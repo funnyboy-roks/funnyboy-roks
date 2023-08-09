@@ -2,12 +2,13 @@
 
 # funnyboy_roks
 
-Hello, I'm funnyboy_roks, or Funny! I have been programming for about four years, building various applications and tools.
+Hello, I'm funnyboy_roks, or Funny! I have been programming for about six years, building various applications and tools.
 
-I tend to build applications that I find useful, which usually includes
-web apps, CLI tools, Minecraft plugins, and much more.  Some
-of my featured projects can be seen below and on [my website](https://funnyboyroks.com).  
-*If you'd like to request a tool or application, you are more than welcome to contact me ([Contact Info](#contact))*
+I tend to build applications that I find useful or fun, which usually includes
+web apps, CLI tools, Minecraft plugins, and more.  Some of my featured
+projects can be seen below and on [my website](https://funnyboyroks.com).
+
+> If you'd like to request a tool or application, please [contact me](#contact)!
 
 My Website contains a lot of information that could be useful, as well
 as a mini portfolio with many of my projects: <https://funnyboyroks.com>
@@ -24,12 +25,12 @@ I've experimented with many programming languages, though I mostly stick
 to a few that can be seen below. (Links to my repos with those
 languages)
 
-| Language                         | Rank (by favouritism) | Rank (by experience) |
-| -------------------------------- | --------------------- | -------------------- |
-| [Rust]                           | 1                     | 3                    |
-| [JavaScript]/[Typescript]        | 2                     | 1                    |
-| [Java]                           | 3                     | 2                    |
-| [Python] <sub>(disgusting)</sub> | 4                     | 4                    |
+| Language                         | Rank (by preference) | Experience |
+| -------------------------------- | -------------------- | ---------- |
+| [Rust]                           | 1                    | 1 year     |
+| [JavaScript]/[Typescript]        | 2                    | 6 years    |
+| [Java]                           | 3                    | 4 years    |
+| [Python] <sub>(disgusting)</sub> | 4                    | 4 years    |
 
 [Rust]:       https://github.com/funnyboy-roks?tab=repositories&language=rust
 [JavaScript]: https://github.com/funnyboy-roks?tab=repositories&language=javascript
