@@ -25,6 +25,14 @@ I've experimented with many programming languages, though I mostly stick
 to a few that can be seen below. (Links to my repos with those
 languages)
 
+<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
+    <img
+        alt="Top Languages"
+        align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6"
+        />
+</a>
+
 | Language                         | Rank (by preference) | Experience |
 | -------------------------------- | -------------------- | ---------- |
 | [Rust]                           | 1                    | 1 year     |
@@ -42,19 +50,4 @@ languages)
 
 If you need assistance or have a suggestion, please join my Discord server: <https://funnyboyroks.com/discord>.
 
-For all other senders, you can send an email to [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com).
-
-## Stats
-
-<div align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img height="170px" width="auto" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=funnyboy-roks&show_icons=true&theme=dracula">
-</a>
-
-<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img height="170px" width="auto" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6">
-</a>
-
-</div>
+For all other senders, please email me at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com).
