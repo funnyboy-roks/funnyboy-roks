@@ -44,27 +44,6 @@ If you need assistance or have a suggestion, please join my Discord server: <htt
 
 For all other senders, you can send an email to [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com).
 
-## My Setup
-
-I currently run [Arch Linux](https://archlinux.org) with [i3](https://i3wm.org/) on my computers.
-- I use [lemurs](https://github.com/coastalwhite/lemurs) as my DM
-- I use [polybar](https://github.com/polybar/polybar/wiki/) as my bar.
-- I use [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) as my web browser.
-
-For programming, I use [NeoVim](https://neovim.io/) for most languages,
-though I use IntelliJ for Java development, because there's still no
-great way to do that in [Neo]Vi[m] (if you have ideas, please [let me
-know](#contact)!).
-
-I use two terminal emulators;
-[Alacritty](https://github.com/alacritty/alacritty) and
-[Guake](https://github.com/Guake/guake) both running
-[zsh](https://www.zsh.org/) with
-[powerlevel10k](https://github.com/romkatv/powerlevel10k)'s version of
-the [pure](https://github.com/romkatv/powerlevel10k#pure-compatibility) prompt
-
-### My config files can be found in my [personal-config](https://github.com/funnyboy-roks/personal-config/) repo.
-
 ## Stats
 
 <div align="center">
