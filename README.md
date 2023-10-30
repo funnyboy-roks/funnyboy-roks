@@ -10,14 +10,13 @@ projects can be seen below and on [my website](https://funnyboyroks.com).
 
 > If you'd like to request a tool or application, please [contact me](#contact)!
 
-My Website contains a lot of information that could be useful, as well
-as a mini portfolio with many of my projects: <https://funnyboyroks.com>
+[My website](https://funnyboyroks.com) contains a lot of information that could be useful, as well
+as a mini portfolio with many of my projects.
 
-You can additionally checkout my Modrinth page to see the plugins and
-resource packs that I've made: <https://modrinth.com/user/funnyboy-roks>
+You can additionally checkout my [Modrinth page](https://modrinth.com/user/funnyboy-roks) to see the plugins and
+resource packs that I've made.
 
-My Maven repository contains a few projects that may be of use:
-<https://maven.funnyboyroks.com>
+My [Maven repository](https://maven.funnyboyroks.com) contains a few projects that may be of use.
 
 ## Languages
 
@@ -48,6 +47,6 @@ languages)
 
 ## Contact
 
-If you need assistance or have a suggestion, please join my Discord server: <https://funnyboyroks.com/discord>.
+If you need assistance or have a suggestion, please join my [Discord server](https://funnyboyroks.com/discord).
 
 For all other senders, please email me at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com).
