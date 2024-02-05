@@ -27,8 +27,9 @@ languages)
 Languages I know well (ordered by preference):
 
 > _Know well defined by the ability to write complex programs in the
-> language without needing to look up common language features. (a.k.a. not
-> just having written a "Hello World")_
+> language without struggling with using the language or the
+> compiler/interpreter (a.k.a. not having just written a "Hello World"
+> program)_
 
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
     <img
