@@ -4,19 +4,18 @@
 
 Hello, I'm funnyboy_roks, or Funny! I have been programming for about six years, building various applications and tools.
 
-I tend to build applications that I find useful or fun, which usually includes
-web apps, CLI tools, Minecraft plugins, and more.  Some of my featured
-projects can be seen below and on [my website](https://funnyboyroks.com).
+I build applications and libraries based on things that I find
+interesting or useful, so CLI tools, web servers, implementations for
+papers that I read, and more.  Many of my projects are listed on
+[my website](https://funnyboyroks.com/projects), and you can see all of
+them in my
+[repositories](https://github.com/funnyboy-roks?tab=repositories).
+
+I prefer to do low-level programming, i.e. interfacing directly with an
+operating system or even some embedded applications, but I'm also
+comfortable with web dev and other higher-level applications.
 
 > If you'd like to request a tool or application, please [contact me](#contact)!
-
-[My website](https://funnyboyroks.com) contains a lot of information that could be useful, as well
-as a mini portfolio with many of my projects.
-
-You can additionally checkout my [Modrinth page](https://modrinth.com/user/funnyboy-roks) to see the plugins and
-resource packs that I've made.
-
-My [Maven repository](https://maven.funnyboyroks.com) contains a few projects that may be of use.
 
 ## Languages
 
@@ -26,10 +25,8 @@ languages)
 
 Languages I know well (ordered by preference):
 
-> _Know well defined by the ability to write complex programs in the
-> language without struggling with using the language or the
-> compiler/interpreter (a.k.a. not having just written a "Hello World"
-> program)_
+> _Know well defined by a history of using the language to write complex
+> programs_
 
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
     <img
@@ -41,11 +38,11 @@ Languages I know well (ordered by preference):
 
 | Language                             | Experience |
 | ------------------------------------ | ---------- |
-| [Rust]                               | 1 year     |
-| [C]                                  | 1 year     |
-| [JavaScript]/[Typescript]            | 6 years    |
-| [Java]                               | 4 years    |
-| [Python] <sub>(unfortunately)</sub>  | 4 years    |
+| [Rust]                               | >1 year    |
+| [C]                                  | >1 year    |
+| [JavaScript]/[Typescript]            | >6 years   |
+| [Java]                               | >4 years   |
+| [Python] <sub>(unfortunately)</sub>  | >4 years   |
 
 [Rust]:       https://github.com/funnyboy-roks?tab=repositories&language=rust
 [C]:          https://github.com/funnyboy-roks?tab=repositories&language=c
@@ -53,6 +50,16 @@ Languages I know well (ordered by preference):
 [TypeScript]: https://github.com/funnyboy-roks?tab=repositories&language=typescript
 [Java]:       https://github.com/funnyboy-roks?tab=repositories&language=java
 [Python]:     https://github.com/funnyboy-roks?tab=repositories&language=python
+
+## Links
+
+- [Website/Portfolio]
+- [Modrinth]
+- [Maven]
+
+[Website/Portfolio]: https://funnyboyroks.com
+[Modrinth]: https://modrinth.com/user/funnyboy-roks
+[Maven]: https://maven.funnyboyroks.com
 
 ## Contact
 
