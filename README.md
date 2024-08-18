@@ -28,21 +28,7 @@ Languages I know well (ordered by preference):
 > _Know well defined by a history of using the language to write complex
 > programs_
 
-<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img
-        alt="Top Languages"
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6"
-        />
-</a>
-
-| Language                             | Experience |
-| ------------------------------------ | ---------- |
-| [Rust]                               | >1 year    |
-| [C]                                  | >1 year    |
-| [JavaScript]/[Typescript]            | >6 years   |
-| [Java]                               | >4 years   |
-| [Python] <sub>(unfortunately)</sub>  | >4 years   |
+[Rust], [C], [JavaScript]/[Typescript], [Java], C#, [Python]
 
 [Rust]:       https://github.com/funnyboy-roks?tab=repositories&language=rust
 [C]:          https://github.com/funnyboy-roks?tab=repositories&language=c
@@ -50,6 +36,13 @@ Languages I know well (ordered by preference):
 [TypeScript]: https://github.com/funnyboy-roks?tab=repositories&language=typescript
 [Java]:       https://github.com/funnyboy-roks?tab=repositories&language=java
 [Python]:     https://github.com/funnyboy-roks?tab=repositories&language=python
+
+<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
+    <img
+        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6"
+        />
+</a>
 
 ## Links
 
