@@ -23,12 +23,10 @@ I've experimented with many programming languages, though I mostly stick
 to a few that can be seen below. (Links to my repos with those
 languages)
 
-Languages I know well (ordered by preference):
+Well Known Languages: [Rust], [C], [JavaScript]/[Typescript], [Java], C#, [Python]
 
 > _Know well defined by a history of using the language to write complex
 > programs_
-
-[Rust], [C], [JavaScript]/[Typescript], [Java], C#, [Python]
 
 [Rust]:       https://github.com/funnyboy-roks?tab=repositories&language=rust
 [C]:          https://github.com/funnyboy-roks?tab=repositories&language=c
