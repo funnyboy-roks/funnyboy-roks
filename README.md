@@ -23,7 +23,7 @@ I've experimented with many programming languages, though I mostly stick
 to a few that can be seen below. (Links to my repos with those
 languages)
 
-Well Known Languages: [Rust], [C], [JavaScript]/[Typescript], [Java], C#, [Python]
+Well Known Languages: [Rust], [C], [JavaScript]/[Typescript], [Go], [Java], C#, [Python]
 
 > _Know well defined by a history of using the language to write complex
 > programs_
@@ -34,6 +34,7 @@ Well Known Languages: [Rust], [C], [JavaScript]/[Typescript], [Java], C#, [Pytho
 [TypeScript]: https://github.com/funnyboy-roks?tab=repositories&language=typescript
 [Java]:       https://github.com/funnyboy-roks?tab=repositories&language=java
 [Python]:     https://github.com/funnyboy-roks?tab=repositories&language=python
+[Go]:         https://github.com/funnyboy-roks?tab=repositories&language=go
 
 <a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
     <img
