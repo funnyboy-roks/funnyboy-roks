@@ -2,7 +2,7 @@
 
 # funnyboy_roks
 
-Hello, I'm funnyboy_roks, or Funny! I have been programming for about six years, building various applications and tools.
+Hello, I'm funnyboy_roks, or Funny! I have been programming for about seven years, building various applications and tools.
 
 I build applications and libraries based on things that I find
 interesting or useful, so CLI tools, web servers, implementations for
