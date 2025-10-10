@@ -18,7 +18,7 @@ occasional web-development.
 
 I am also one of the core maintainers of [Basalt](https://basalt.rs), a
 FOSS programming competition system.  We are always looking for new
-contributes and if you're new to Open Source, I'd recommend looking
+contributors and if you're new to Open Source, I'd recommend looking
 there!
 
 > If you'd like to work with me, please [reach out](#contact)!
