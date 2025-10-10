@@ -2,31 +2,34 @@
 
 # funnyboy_roks
 
-Hello, I'm funnyboy_roks, or Funny! I have been programming for about seven years, building various applications and tools.
+Hello, I'm funnyboy_roks, or Funny! I have been programming for about
+eight years, building various applications and tools.
 
-I build applications and libraries based on things that I find
-interesting or useful, so CLI tools, web servers, implementations for
-papers that I read, and more.  Many of my projects are listed on
-[my website](https://funnyboyroks.com/projects), and you can see all of
-them in my
+I build a lot of random bits of software, including libraries, CLI
+tools, web-sites, programming languages, Minecraft plugins, and so much
+more.  The vast majority of software that I build is open-source and
+placed in my
 [repositories](https://github.com/funnyboy-roks?tab=repositories).
 
-I prefer to do low-level programming, i.e. interfacing directly with an
-operating system or even some embedded applications, but I'm also
-comfortable with web dev and other higher-level applications.
+I primarily do low-level programming in languages like Rust, writing
+software that interacts with the operating system or some embedded
+applications.  I have also been known to write some Java and do the
+occasional web-development.
 
-> If you'd like to request a tool or application, please [contact me](#contact)!
+I am also one of the core maintainers of [Basalt](https://basalt.rs), a
+FOSS programming competition system.  We are always looking for new
+contributes and if you're new to Open Source, I'd recommend looking
+there!
+
+> If you'd like to work with me, please [reach out](#contact)!
 
 ## Languages
 
-I've experimented with many programming languages, though I mostly stick
-to a few that can be seen below. (Links to my repos with those
-languages)
+I thoroughly enjoy programming languages and their design.  As such,
+I've played around with so many different languages (and even built some
+of my own!), though I use a handful for the majority of my projects.
 
-Well Known Languages: [Rust], [C], [JavaScript]/[Typescript], [Go], [Java], C#, [Python]
-
-> _Know well defined by a history of using the language to write complex
-> programs_
+Most-used languages: [Rust], [C], [JavaScript]/[Typescript], [Go], [Java], C#, [Python]
 
 [Rust]:       https://github.com/funnyboy-roks?tab=repositories&language=rust
 [C]:          https://github.com/funnyboy-roks?tab=repositories&language=c
@@ -36,25 +39,20 @@ Well Known Languages: [Rust], [C], [JavaScript]/[Typescript], [Go], [Java], C#, 
 [Python]:     https://github.com/funnyboy-roks?tab=repositories&language=python
 [Go]:         https://github.com/funnyboy-roks?tab=repositories&language=go
 
-<a href="https://github.com/funnyboy-roks?tab=repositories" title="Repositories">
-    <img
-        alt="Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6"
-        />
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
 
 ## Links
 
-- [Website/Portfolio]
-- [Modrinth]
-- [Maven]
-
-[Website/Portfolio]: https://funnyboyroks.com
-[Modrinth]: https://modrinth.com/user/funnyboy-roks
-[Maven]: https://maven.funnyboyroks.com
+- [Personal Website](https://funnyboyroks.com)
+- [Modrinth](https://modrinth.com/user/funnyboy-roks)
+- [Codeberg](https://codeberg.org/fbr) (I've just started using it, so there's not much to be seen)
 
 ## Contact
 
-If you need assistance or have a suggestion, please join my [Discord server](https://funnyboyroks.com/discord).
+If you need assistance or have a suggestion for a Minecraft plugin or
+any other application, please join my [Discord
+server](https://funnyboyroks.com/discord) or make an issue on the
+dedicated repository.
 
-For all other senders, please email me at [`funnyboyroks@gmail.com`](mailto:funnyboyroks@gmail.com).
+For all other senders, please email me at
+[`fbr@funnyboyroks.com`](mailto:fbr@funnyboyroks.com).
