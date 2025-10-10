@@ -45,7 +45,6 @@ Most-used languages: [Rust], [C], [JavaScript]/[Typescript], [Go], [Java], C#, [
 
 - [Personal Website](https://funnyboyroks.com)
 - [Modrinth](https://modrinth.com/user/funnyboy-roks)
-- [Codeberg](https://codeberg.org/fbr) (I've just started using it, so there's not much to be seen)
 
 ## Contact
 
