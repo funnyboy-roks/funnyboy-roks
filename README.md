@@ -29,15 +29,13 @@ I thoroughly enjoy programming languages and their design.  As such,
 I've played around with so many different languages (and even built some
 of my own!), though I use a handful for the majority of my projects.
 
-Most-used languages: [Rust], [C], [JavaScript]/[TypeScript], [Go], [Java], C#, [Python]
+Most-used languages: [Rust], [C], [JavaScript]/[TypeScript], [Java]
 
 [Rust]:       https://github.com/funnyboy-roks?tab=repositories&language=rust
 [C]:          https://github.com/funnyboy-roks?tab=repositories&language=c
 [JavaScript]: https://github.com/funnyboy-roks?tab=repositories&language=javascript
 [TypeScript]: https://github.com/funnyboy-roks?tab=repositories&language=typescript
 [Java]:       https://github.com/funnyboy-roks?tab=repositories&language=java
-[Python]:     https://github.com/funnyboy-roks?tab=repositories&language=python
-[Go]:         https://github.com/funnyboy-roks?tab=repositories&language=go
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
 
