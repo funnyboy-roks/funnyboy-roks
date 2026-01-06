@@ -37,7 +37,7 @@ Most-used languages: [Rust], [C], [JavaScript]/[TypeScript], [Java]
 [TypeScript]: https://github.com/funnyboy-roks?tab=repositories&language=typescript
 [Java]:       https://github.com/funnyboy-roks?tab=repositories&language=java
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funnyboy-roks&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
+[![Top Languages](./img/langs.svg)](https://github.com/funnyboy-roks?tab=repositories "Repositories")
 
 ## Links
 
