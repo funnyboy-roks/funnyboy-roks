@@ -3,7 +3,8 @@ name: Generate Langs Image
 on:
   schedule:
     - cron: "0 0 * * *"
-  push: [main]
+  push:
+    branches: [main]
   workflow_dispatch:
 
 jobs:
