@@ -18,7 +18,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=6
+          options: username=${{ github.repository_owner }}&exclude_repo=git-commit-spam-ex,js-utils&layout=compact&theme=dracula&hide=vim%20script&langs_count=10
           path: img/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
