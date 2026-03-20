@@ -2,11 +2,11 @@
 
 # funnyboy_roks
 
-Hello, I'm funnyboy_roks, or Funny! I have been programming for about
-eight years, building various applications and tools.
+Hello, I'm funnyboy_roks, or fbr! I have been programming for almost
+a decade, building various applications and tools.
 
 I build a lot of random bits of software, including libraries, CLI
-tools, web-sites, programming languages, Minecraft plugins, and so much
+tools, websites, programming languages, Minecraft plugins, and so much
 more.  The vast majority of software that I build is open-source and
 placed in my
 [repositories](https://github.com/funnyboy-roks?tab=repositories).
@@ -17,11 +17,7 @@ applications.  I have also been known to write some Java and do the
 occasional web-development.
 
 I am also one of the core maintainers of [Basalt](https://basalt.rs), a
-FOSS programming competition system.  We are always looking for new
-contributors and if you're new to Open Source, I'd recommend looking
-there!
-
-> If you'd like to work with me, please [reach out](#contact)!
+FOSS programming competition system.
 
 ## Languages
 
@@ -41,15 +37,15 @@ Most-used languages: [Rust], [C], [JavaScript]/[TypeScript], [Java]
 
 ## Links
 
-- [Personal Website](https://funnyboyroks.com)
+- [Website](https://fbr.dev)
+- [Codeberg](https://codeberg.org/fbr)
 - [Modrinth](https://modrinth.com/user/funnyboy-roks)
 
 ## Contact
 
-If you need assistance or have a suggestion for a Minecraft plugin or
-any other application, please join my [Discord
-server](https://funnyboyroks.com/discord) or make an issue on the
-dedicated repository.
+If you need assistance with one of my plugins, please join my [Discord
+server](https://fbr.dev/discord) or make an issue on the dedicated
+repository.
 
 For all other senders, please email me at
 [`fbr@fbr.dev`](mailto:fbr@fbr.dev).
