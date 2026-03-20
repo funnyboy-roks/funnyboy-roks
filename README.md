@@ -52,4 +52,4 @@ server](https://funnyboyroks.com/discord) or make an issue on the
 dedicated repository.
 
 For all other senders, please email me at
-[`fbr@funnyboyroks.com`](mailto:fbr@funnyboyroks.com).
+[`fbr@fbr.dev`](mailto:fbr@fbr.dev).
