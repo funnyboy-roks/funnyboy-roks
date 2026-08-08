@@ -7,23 +7,21 @@ a decade, building various applications and tools.
 
 I build a lot of random bits of software, including libraries, CLI
 tools, websites, programming languages, Minecraft plugins, and so much
-more.  The vast majority of software that I build is open-source and
-placed in my
-[repositories](https://github.com/funnyboy-roks?tab=repositories).
+more.  The vast majority of software that I build is open source and
+can be seen in my
+[repositories](https://github.com/funnyboy-roks?tab=repositories) or on
+[Codeberg].
 
-I primarily do low-level programming in languages like Rust, writing
-software that interacts with the operating system or some embedded
-applications.  I have also been known to write some Java and do the
-occasional web-development.
-
-I am also one of the core maintainers of [Basalt](https://basalt.rs), a
-FOSS programming competition system.
+I primarily do low-level programming in languages like Rust or C,
+writing software that interacts with the operating system and some
+embedded applications.  I have also been known to write some Java and
+make the occasional webbed-site.
 
 ## Languages
 
-I thoroughly enjoy programming languages and their design.  As such,
-I've played around with so many different languages (and even built some
-of my own!), though I use a handful for the majority of my projects.
+I thoroughly enjoy programming languages, both in theory and in
+practice.  I've played around with many languages (and even built some
+of my own), but I use just a handful for the majority of my projects.
 
 Most-used languages: [Rust], [C], [JavaScript]/[TypeScript], [Java]
 
@@ -38,14 +36,18 @@ Most-used languages: [Rust], [C], [JavaScript]/[TypeScript], [Java]
 ## Links
 
 - [Website](https://fbr.dev)
-- [Codeberg](https://codeberg.org/fbr)
+- [Codeberg]
 - [Modrinth](https://modrinth.com/user/funnyboy-roks)
 
 ## Contact
 
-If you need assistance with one of my plugins, please join my [Discord
-server](https://fbr.dev/discord) or make an issue on the dedicated
-repository.
+If you need support about a project or wish to report a bug, please open
+an issue on the project's repository.
 
-For all other senders, please email me at
+If you need assistance with one of my Minecraft plugins, please join my
+[Discord server](https://fbr.dev/discord).
+
+Other senders can send me an email at
 [`fbr@fbr.dev`](mailto:fbr@fbr.dev).
+
+[Codeberg]: https://codeberg.org/fbr
